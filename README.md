@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed Alaa</h1>
 <h3 align="center">Digital Design Engineer | Passionate about RTL, FSM Architecture & Hardware Modeling</h3>
 
-- 🔭 I’m currently working on **My BLE physical layer graduation project**
+
 
 - 🌱 I’m currently learning **Digital design backend**
 
